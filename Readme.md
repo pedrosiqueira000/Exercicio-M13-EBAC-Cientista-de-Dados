@@ -1,6 +1,6 @@
 ﻿# 📊 Projeto M13 EBAC Cientista de Dados: Fundamentos da Descoberta de Dados
 
-Este projeto foi desenvolvido como parte do \*\*Módulo 13 - Fundamentos da Descoberta de Dados\*\* do curso \*\*Profissão Cientista de Dados\*\*. O objetivo principal é aplicar os conceitos estatísticos, de visualização e de análise exploratória de dados (EDA) para extrair insights de uma base de dados real de produtos de um supermercado chileno.
+Este projeto foi desenvolvido como parte do **Módulo 13 - Fundamentos da Descoberta de Dados** do curso **Profissão Cientista de Dados**. O objetivo principal é aplicar os conceitos estatísticos, de visualização e de análise exploratória de dados (EDA) para extrair insights de uma base de dados real de produtos de um supermercado chileno.
 
 ## 🎯 Objetivo do Projeto
 
@@ -83,6 +83,7 @@ jupyter notebook Profissao\_Cientista\_de\_Dados\_M13\_Projeto.ipynb
 ## ✒️ Autor
 
 * **Pedro Siqueira de Freitas** - https://www.linkedin.com/in/pedro-siqueira-de-freitas/
+
 
 
 
