@@ -58,7 +58,7 @@ Para replicar esta análise, siga os passos abaixo:
 
 \```bash
 
-git clone https://github.com/pedrosiqueira000/Exercicio-M13-EBAC-Cientista-de-Dados/upload
+git clone https://github.com/pedrosiqueira000/Exercicio-M13-EBAC-Cientista-de-Dados
 
 \```
 
@@ -83,3 +83,4 @@ jupyter notebook Profissao\_Cientista\_de\_Dados\_M13\_Projeto.ipynb
 \## ✒️ Autor
 
 * \*\*Pedro Siqueira de Freitas\*\* - https://www.linkedin.com/in/pedro-siqueira-de-freitas/
+
